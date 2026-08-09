@@ -1,0 +1,18 @@
+{
+  "RandomForest": {
+    "accuracy": 0.9,
+    "f1_score": 0.8882
+  },
+  "GradientBoosting": {
+    "accuracy": 0.9,
+    "f1_score": 0.9
+  },
+  "feature_importances": {
+    "Attendance %": 0.0907,
+    "Assignment Avg": 0.3363,
+    "Quiz Avg": 0.2289,
+    "Logins / Wk": 0.0792,
+    "Forum Posts": 0.0593,
+    "Submission Delay (hrs)": 0.2056
+  }
+}
