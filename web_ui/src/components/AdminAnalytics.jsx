@@ -16,7 +16,7 @@ export default function AdminAnalytics() {
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <div>
             <h2 style={{ fontSize: '20px', fontWeight: 800, color: '#f8fafc' }}>Institutional Admin & Security Control</h2>
-            <p style={{ fontSize: '13px', color: '#94a3b8' }}>University of Peradeniya | SmartLMS Governance & Data Security Policy</p>
+            <p style={{ fontSize: '13px', color: '#94a3b8' }}>SmartLMS Institutional Governance & Data Security Policy</p>
           </div>
           <span className="badge badge-emerald">256-Bit Encrypted Data Policy Active</span>
         </div>

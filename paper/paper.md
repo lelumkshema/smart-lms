@@ -1,7 +1,7 @@
 # SmartLMS: An AI-Driven Adaptive Learning Management System for Predictive Student Performance Analytics and Engagement Modeling in Higher Education
 
 **Author(s):** Lelum Kshema  
-**Institution:** Faculty of Engineering / Department of Computer Engineering, University of Peradeniya  
+**Institution:** Advanced Educational Data Mining & AI Research Lab  
 **Date:** August 2026  
 **Target Repository:** ResearchGate Preprint / IEEE Transactions on Learning Technologies  
 

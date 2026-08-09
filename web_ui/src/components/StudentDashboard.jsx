@@ -35,7 +35,7 @@ export default function StudentDashboard() {
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <div>
             <h2 style={{ fontSize: '20px', fontWeight: 800, color: '#f8fafc' }}>Undergraduate Student Portal</h2>
-            <p style={{ fontSize: '13px', color: '#94a3b8' }}>Student ID: UOP_202401 | Faculty of Engineering, University of Peradeniya</p>
+            <p style={{ fontSize: '13px', color: '#94a3b8' }}>Student ID: STU_202401 | SmartLMS Portal</p>
           </div>
           <span className={`badge ${statusBadge}`}>Predicted Status: {predictedGrade} Grade ({computedScore.toFixed(1)}%)</span>
         </div>

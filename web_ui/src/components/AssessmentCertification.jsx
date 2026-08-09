@@ -169,7 +169,7 @@ export default function AssessmentCertification() {
           <p style={{ fontSize: '13px', color: '#94a3b8', margin: '6px 0 20px 0' }}>SmartLMS Automated Credential Verification</p>
 
           <div style={{ maxWidth: '600px', margin: '0 auto', background: 'rgba(15, 23, 42, 0.8)', padding: '30px', borderRadius: '16px', border: '2px solid rgba(168, 85, 247, 0.3)', marginBottom: '20px' }}>
-            <div style={{ fontSize: '11px', textTransform: 'uppercase', letterSpacing: '2px', color: '#a855f7', fontWeight: 700 }}>University of Peradeniya | SmartLMS</div>
+            <div style={{ fontSize: '11px', textTransform: 'uppercase', letterSpacing: '2px', color: '#a855f7', fontWeight: 700 }}>SmartLMS Higher Education Portal</div>
             <div style={{ fontSize: '20px', fontWeight: 800, color: '#fff', margin: '12px 0 6px 0' }}>Certificate of Academic Achievement</div>
             <div style={{ fontSize: '13px', color: '#94a3b8' }}>This certifies that</div>
             <div style={{ fontSize: '22px', fontWeight: 800, color: '#818cf8', margin: '8px 0' }}>Kavindu Perera</div>
